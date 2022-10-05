@@ -5,12 +5,12 @@ A Computer Engineer working as a Software Developer.
 - 🔭 I’m currently working on **Mobile Apps**, using **Flutter** and **React Native**.
 - 🌱 I’m currently learning the basics of **Kotlin** for **Android Development**.
 - 👯 I’m looking to collaborate on **Mobile Apps projects**.
-
+<!--
 ### Stats
 [![EmersonPinheiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonPinheiro&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonPinheiro&theme=noctis_minimus&hide=php,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
