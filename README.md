@@ -3,7 +3,7 @@
 A Computer Engineer working as a Software Developer.
 
 - 🔭 I’m currently working on **Mobile Apps**, using **Flutter** and **React Native**.
-- 👯 I’m looking to collaborate on **Mobile Apps projects**.
+- 🤝 I’m looking to collaborate on **Mobile Apps projects**.
 <!--
 ### Stats
 [![EmersonPinheiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonPinheiro&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
