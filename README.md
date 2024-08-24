@@ -2,7 +2,7 @@
 
 A Computer Engineer working as a Software Developer.
 
-- 🔭 I’m currently working on **Mobile Apps**, using **Flutter** and **React Native**.
+- 🔭 I’m currently working on **Mobile Apps**, using **Flutter**.
 - 🤝 I’m looking to collaborate on **Mobile Apps projects**.
 <!--
 ### Stats
